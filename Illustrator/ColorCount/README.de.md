@@ -17,4 +17,10 @@ Wenn eine Ebene namens "ColorCount" existiert, dann:
 
 
 ## Bilder
-![Wie oft kommt jede Farbe vor?](https://github.com/renebuehling/design/raw/master/ColorCountAI-01.jpg "Wie oft kommt jede Farbe vor?")
+![Wie oft kommt jede Farbe vor?](https://raw.githubusercontent.com/renebuehling/design/master/Illustrator/ColorCount/(readme-files)/ColorCountAI-01.jpg "Wie oft kommt jede Farbe vor?")
+
+![Optionen des ColorCount Scripts.](https://raw.githubusercontent.com/renebuehling/design/master/Illustrator/ColorCount/(readme-files)/ColorCountAI-02.jpg "Optionen des ColorCount Scripts.")
+
+![Ergebnis des Mini-Reports](https://raw.githubusercontent.com/renebuehling/design/master/Illustrator/ColorCount/(readme-files)/ColorCountAI-03.jpg "Ergebnis des Mini-Reports")
+
+![Ergebnis des ausführlichen Reports ](https://raw.githubusercontent.com/renebuehling/design/master/Illustrator/ColorCount/(readme-files)/ColorCountAI-04.jpg "Ergebnis des ausführlichen Reports")
