@@ -1,4 +1,4 @@
-_Read this text in [German (Deutsch)](README.md) lesen._
+_Read this text in: [German (Deutsch)](README.de.md)_
 
 # Count Colors in Illustrator
 
