@@ -1,3 +1,5 @@
+_Read this text in: [English](README.md), [German (Deutsch)](README.de.md)_
+
 # Farben zählen in Illustrator
 
 Aus gegebenem Anlass habe ich ein Automatisierungsscript für Illustrator geschrieben, das die in einem Dokument verwendeten Farben zählt und einen Report ausgibt. Hintergrund ist z.B. die Frage "Wie viele Flächen (Pfadobjekte) sind mit der Farbe X gefüllt?".
