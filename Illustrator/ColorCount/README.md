@@ -1,3 +1,5 @@
+_Read this text in [German (Deutsch)](README.md) lesen._
+
 # Count Colors in Illustrator
 
 Iterates over all shapes in the current document, adds a new layer named "ColorCount" where
